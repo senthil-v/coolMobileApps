@@ -1,0 +1,8 @@
+{
+  "name": "Sannidhi — Bhakthi & Amavasai Tharpanam",
+  "description": "Mobile-first devotional Parayanam app for 6 deities with 108 Saranam Ayyappa recitals and personalized 2026–2027 Amavasai Tharpanam Sankalpam & generation mantras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
